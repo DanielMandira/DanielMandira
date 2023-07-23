@@ -46,7 +46,10 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DanielMandira}/count.svg" /></p> 
 <br>
-  <hr>
-  </div>
-    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-augusto-mandira)
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8332A6&height=120&section=footer"/>****
+  <hr></div>
+    <div align="center">
+              
+[![linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-augusto-mandira)
+
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8332A6&height=120&section=footer"/>
