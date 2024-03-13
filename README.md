@@ -29,6 +29,8 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-android%20studio-0D1117?style=for-the-badge&logo=android%20studio&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117&logoColor=fff)&nbsp;
+![Fedora](https://img.shields.io/badge/-Fedora-0D1117?style=for-the-badge&logo=fedora&labelColor=0D1117)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=microsoft%20azure&logoColor=007ACC&&labelColor=0D1117)&nbsp;
 
 
