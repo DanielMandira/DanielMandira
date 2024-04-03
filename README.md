@@ -42,7 +42,10 @@
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![SQLITE](https://img.shields.io/badge/-SQLITE-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117)&nbsp;
+
 ### Studying in this moment:
 ![EJS](https://img.shields.io/badge/-EJS-0D1117?style=for-the-badge&logo=ejs&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
