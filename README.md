@@ -45,6 +45,7 @@
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![SQLITE](https://img.shields.io/badge/-SQLITE-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 ![EJS](https://img.shields.io/badge/-EJS-0D1117?style=for-the-badge&logo=ejs&labelColor=0D1117&textColor=0D1117)&nbsp;
