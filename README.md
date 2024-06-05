@@ -31,7 +31,6 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117&logoColor=fff)&nbsp;
 ![Fedora](https://img.shields.io/badge/-Fedora-0D1117?style=for-the-badge&logo=fedora&labelColor=0D1117)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=microsoft%20azure&logoColor=007ACC&&labelColor=0D1117)&nbsp;
 
 
 
@@ -52,7 +51,6 @@
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=openjdk&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PYTHON](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
