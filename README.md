@@ -51,6 +51,9 @@
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=openjdk&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PYTHON](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-0D1117?style=for-the-badge&logo=apachespark&labelColor=0D1117)
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&labelColor=0D1117)
+
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
