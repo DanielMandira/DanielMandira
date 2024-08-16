@@ -17,6 +17,9 @@
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)&nbsp;
+
 
 
 ### Tools:
@@ -37,8 +40,7 @@
 ### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML%205-0D1117?style=for-the-badge&logo=HTML5&logoColor=FFA500&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117)
+![express](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![EJS](https://img.shields.io/badge/-EJS-0D1117?style=for-the-badge&logo=ejs&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -53,8 +55,10 @@
 
 ### Studying in this moment:
 ![PYTHON](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-0D1117?style=for-the-badge&logo=apachespark&labelColor=0D1117)
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&labelColor=0D1117)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-0D1117?style=for-the-badge&logo=apachespark&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&labelColor=0D1117)&nbsp;
+![Mongo](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
+
 
 
   <div align="center">
